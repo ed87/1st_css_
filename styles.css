@@ -1,17 +1,19 @@
 #h1 {
     font-family: sans-serif;
     font-style: italic;
-    color: aqua;
+    color: blue;
     text-align: center;
     background-color: yellow;
+    font-size: 24px;
 }
 
 #p {
-    color: aqua;
+    color: red;
     border: 1px solid black;
     padding: 10px;
     width: 400px;
     text-indent: 25px;
+    font-size: 16px;
     
 
 }
@@ -23,6 +25,8 @@
 
 
 }
+      
+
 
 body {
     background-color: rgb(64, 147, 219);
