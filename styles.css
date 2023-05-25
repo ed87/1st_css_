@@ -1,11 +1,28 @@
-#h1{
+#h1 {
     font-family: sans-serif;
-     font-style: italic;
-     color: aqua;
-}
-#h2{
+    font-style: italic;
     color: aqua;
+    text-align: center;
+    background-color: yellow;
 }
-body{
+
+#p {
+    color: aqua;
+    border: 1px solid black;
+    padding: 10px;
+    width: 400px;
+    text-indent: 25px;
+    
+
+}
+
+
+#first_line {
+    color:blue
+    
+
+}
+
+body {
     background-color: rgb(64, 147, 219);
 }
